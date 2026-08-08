@@ -7,7 +7,7 @@ This blog is about GenAI, LLMs, machine learning, Python, and tech education. I 
 
 # About Me
 
-I'm **Hema Varshini** — an engineer, educator, author, and founder.
+I'm **Hema Varshini** — an engineer.
 
 From a rural school in Odiapatti to a career spanning multiple continents, my journey has been driven by curiosity and a deep commitment to giving back. I'm an alumnus of **Thiagarajar College of Engineering** and started my career working alongside IIT Madras professors at **NMSWorks** (a parent company of Zoho).
 
